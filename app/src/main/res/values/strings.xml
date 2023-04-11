@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvvm Example</string>
+    <string name="get_phone_models">Get Apple Models</string>
+</resources>
